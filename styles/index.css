@@ -420,7 +420,7 @@ section.hero-2 {
 section.test {
   width: 100%;
   background: var(--linear-gradient);
-  background-image: url("../assets/icons/blue-bg-1.png");
+  background-image: url("../assets/icon/blue-bg-1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -500,7 +500,7 @@ section.hero-small {
   width: 100%;
   background: var(--linear-gradient);
   background: var(--linear-gradient);
-  background-image: url("../assets/icons/blue-bg-2.png");
+  background-image: url("../assets/icon/blue-bg-2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -525,7 +525,7 @@ footer {
   display: flex;
   flex-direction: column;
   background: #fff;
-  background-image: url("../assets/icons/white-bg-2.png");
+  background-image: url("../assets/icon/white-bg-2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -590,7 +590,7 @@ footer .copyright {
   justify-content: center;
   align-items: flex-start;
   background: #fff;
-  background-image: url("../assets/icons/white-bg.png");
+  background-image: url("../assets/icon/white-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
